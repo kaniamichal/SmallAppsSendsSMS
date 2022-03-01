@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMS Pelvicare</string>
+    <string name="contacts">Kontakty</string>
+    <string name="confirm_events">Potwierdź</string>
+    <string name="delete_events">Odwołaj</string>
+    <string name="podaj_godzin_wizyty">Podaj godzinę wizyty</string>
+    <string name="podaj_nr_telefonu">Podaj nr telefonu</string>
+    <string name="first">Pierwsza wizyta</string>
+    <string name="addValue">Podaj kwotę</string>
+</resources>
